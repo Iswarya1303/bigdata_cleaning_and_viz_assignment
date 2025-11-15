@@ -69,7 +69,7 @@ Screenshots of the running application are included in the `screenshots` folder,
 
 - Python  
 - Pandas  
-- Parquet / PyArrow  
+- Parquet  
 - Streamlit  
 - UV and VS Code  
 
@@ -79,3 +79,4 @@ Screenshots of the running application are included in the `screenshots` folder,
 
 This project completes all steps outlined in the assignment:  
 raw data inspection, data cleaning, creation of aggregations, and interactive visualization, along with the required screenshots.
+
